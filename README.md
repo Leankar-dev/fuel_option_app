@@ -1,6 +1,7 @@
 # opcao_combustivel_app
 
-A new Flutter project.
+
+a Flutter app that shows the best fuel option to fill up.
 
 ## Getting Started
 
